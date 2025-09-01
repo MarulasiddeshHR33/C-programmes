@@ -1,8 +1,9 @@
 °# Hi there 👋, 
 °I'm Marulasiddesh HR
 
-•I'm a **1st year BCA, 1st semester student** •learning programming and exploring GitHub.  
-•Currently diving into **C programming** and •practicing small exercises to improve my skills.
+•I'm a **1st year BCA, 1st semester student**
+ •learning programming and exploring GitHub.  
+ •Currently diving into **C programming** and        •practicing small exercises to improve my skills.
 
 ## 🌱 I’m currently learning
 - C Programming 💻
